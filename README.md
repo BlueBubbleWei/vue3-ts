@@ -1,5 +1,10 @@
 # hello-word
 
+    初始化项目  
+    vue create hello-world
+    2 选择手动 安装
+    勾选自己需要的组件 typescript etc.
+
 ## Project setup
 ```
 npm install
